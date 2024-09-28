@@ -19,7 +19,7 @@ This full-time role is open to remote candidates, with a preference for someone 
 Work in the next 6 months will look like -
 
 - Designing and implementing an auction platform for protocols to issue credit and optimally find a pricing mechanism for them.
-- Designing and implementing a suite of exchange products for users to trade or collateralised credit positions.
+- Designing and implementing a suite of exchange products for users to trade or collateralise credit positions.
 - 100% unit and integration testing for the above.
 - Collaborate in security reviews.
 - Deploy and maintain smart contracts subsequently.
