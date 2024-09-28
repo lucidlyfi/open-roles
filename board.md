@@ -16,6 +16,14 @@ This full-time role is open to remote candidates, with a preference for someone 
 - Write comprehensive unit and integration tests for smart contracts and ensure full test coverage.
 - Opmitize for gas cost savings for users.
 
+Work in the next 6 months will look like -
+
+- Designing and implementing an auction platform for protocols to issue credit and optimally find a pricing mechanism for them.
+- Designing and implementing a suite of exchange products for users to trade or collateralised credit positions.
+- 100% unit and integration testing for the above.
+- Collaborate in security reviews.
+- Deploy and maintain smart contracts subsequently.
+
 **Qualifications** -
 
 - Extensive experience with solidity and smart contract development on ethereum.
