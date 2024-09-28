@@ -46,3 +46,5 @@ Whether you're a native to this industry or come from a background of traditiona
 **About Lucidly Labs** -
 
 Lucidly Labs Limited is a research and engineering organization building solutions to onboard smarter investors in web3 by enabling smarter tooling and creating open-source software to enforce transparent credit settlement of all types on the chain.
+
+To **apply**, write a mail to [eth_sign77@proton.me](mailto:eth_sign77@proton.me)
