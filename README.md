@@ -43,7 +43,8 @@ Work in the next 6 months will look like -
 
 **Compensation** -
 
-- No bar. We like to pay for top talent.
+$40k-$50k base salary + token allocation
+<br> This is an expected compensation range but may vary depending on the level of experience.
 
 **Join our team** -
 
